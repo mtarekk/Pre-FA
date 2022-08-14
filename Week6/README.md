@@ -125,6 +125,12 @@ ___
 [My Arduino sketch](./Files/Blink_attiny44.ino)
 
 
+## Credits
+♥♥♥ Thanks to all my mentors during this week ♥♥♥
 
-
+[Noha Hani](http://fabacademy.org/2021/labs/egypt/students/noha-hani), 
+[Omar Seif](https://fabacademy.org/2022/labs/egypt/students/omar-seif/), 
+[Ahmed Saeed](http://fabacademy.org/2020/labs/egypt/students/ahmad-saeed/),
+[Omar Senbisy](https://fabacademy.org/2022/labs/egypt/students/omar-abdulhameed/), 
+[Amany Ayman](https://fabacademy.org/2022/labs/egypt/students/amany-ayman/)
 
