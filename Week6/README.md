@@ -41,7 +41,7 @@ I Used 0.4mm V-bit to mill the traces and 1.2mm endmill bit for the outline.
 ![Image](./Images/PCB1.jpg)
 ![Image](./Images/PCB2.jpg)
 ### Hero Shot ♥
-After suffing the components
+After stuffing the components
 ![Image](./Images/HelloPCB.jpg)
 ___
 
