@@ -59,7 +59,9 @@ to my Arduino IDE Preferences and then I install Attiny from boards manager
 
 ![Image](./Images/Attiny.png)
 
+
 Then I set my communication settings as following:
+
 ![Image](./Images/Attiny44.png)
 
 I connect my attiny44 echo board to ArduinoIPS as following:
