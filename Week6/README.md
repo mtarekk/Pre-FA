@@ -3,11 +3,11 @@
 It was an exciting week as I design my very first PCB
 
 Note about the group assignment:
-I don't have group yet 😭
+I don't have a group yet 😭
 ___
 
 ## Design 
-I start by exploring **KiCad**. It's interface is beginner friendly.
+I start by exploring **KiCad**. It's interface is very beginner friendly.
 
 Then I download and install [Fab Library](https://gitlab.fabcloud.org/pub/libraries/electronics/kicad) in KiCad.
 
@@ -64,7 +64,7 @@ Then I set my communication settings as following:
 
 ![Image](./Images/Attiny44.png)
 
-I connect my attiny44 echo board to ArduinoIPS as following:
+I connect my attiny44 echo board to ArduinoISP as following:
 
 | **Attiny44** | **Arduino** |
 |:----------:|:-----------:|
